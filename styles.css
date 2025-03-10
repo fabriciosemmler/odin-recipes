@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: pink;
+}
+
+h1 {
+    color: beige;
+    font-size: 36px;
+}
+
+h2 {
+    color: beige;
+    font-size: 30px;
+}
+
+a,
+li,
+p {
+    color: black;
+    font-size: 24px;
+}
