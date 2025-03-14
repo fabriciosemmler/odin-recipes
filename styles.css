@@ -5,7 +5,12 @@
 
 h1 {
     color: beige;
+    text-align: center;
     font-size: 36px;
+    width: 240px;
+    border-style: double ;
+    border-color: black;
+    margin: auto;
 }
 
 h2 {
@@ -18,4 +23,17 @@ li,
 p {
     color: black;
     font-size: 24px;
+    padding: 8px;
+}
+
+ul {
+    display: table;
+    margin: 16px auto;
+    border-style: double;
+}
+
+img {
+    display: block;
+    margin: 16px auto;
+    width: 600px;
 }
